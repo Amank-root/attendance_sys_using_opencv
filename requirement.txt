@@ -4,3 +4,9 @@ cvzone=1.6.1
 numpy==1.26.4
 cmake
 dlib
+pandas
+pickle
+csv
+tk
+ttkbootstarp
+uuid
