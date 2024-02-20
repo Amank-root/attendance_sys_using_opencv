@@ -58,10 +58,5 @@ def recognize():
         # yield frame
     cv2.destroyAllWindows()
     cap.release()
-    return True
 
 
-# if __name__ == "__main__":
-#     recognize()
-
-# exporting the function to the main.py
