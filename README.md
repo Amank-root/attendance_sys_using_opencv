@@ -34,7 +34,7 @@ pip install virtualenv # Use only if venv is not installed
 
 ```bash
 python -m venv env_name
-env_name\Scripts\activate
+env_name/Scripts/activate
 ```
 
 #### Creating and activating Python environment (Linux)
