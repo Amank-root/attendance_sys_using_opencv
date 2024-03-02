@@ -1,5 +1,3 @@
----
-
 # Overview
 
 ``Developing this from scratch in a week with no knowledge of pandas, tkinter, and face-recognition modules was challenging, yet exciting at the same time. ``
@@ -67,5 +65,3 @@ Create an empty folder and add the images of the person you want to train. In th
 1. [Github (Face-recognition)](https://github.com/ageitgey/face_recognition/)
 2. Geek for Geeks
 3. [YouTube (Tkinter Crash Course)](https://www.youtube.com/watch?v=mop6g-c5HEY)
-
----
